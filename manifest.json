@@ -1,6 +1,6 @@
 {
     "name": "Mexican_Job_Suits",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/BlessInSoftware/Mexican-Job-Suits",
     "description": "Adds more job suits typically recognized in Mexico",
     "dependencies": [
